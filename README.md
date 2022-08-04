@@ -1,5 +1,4 @@
 ### Olá, sou Luiz gustavo diniz 👋
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 
@@ -26,7 +25,6 @@
   </div>
   
   ##
-  
   
   <div> 
   <a href="https://www.youtube.com/channel/UCuRGzGHFfTswFICPxReGVXA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
