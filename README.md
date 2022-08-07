@@ -9,6 +9,14 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=LuizGustavoDiniz&theme=gotham&hide_border=true&area=true)
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LuizGustavoDiniz&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</div>
+
+<div align="center">  
+<a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div>
+
 ### Main skills:
 <img align="center" alt="gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="gustavo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -34,15 +42,6 @@
 <img align="center" alt="gustavo-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img align="center" alt="gustavo-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="center" alt="gustavo-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LuizGustavoDiniz&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</div>
-
-<div align="center">  
-<a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
 
 
 <div align="center">
