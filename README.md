@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f71302&height=180&section=header&text=Luiz Gustavo Diniz &fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0362fc&height=180&section=header"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f71302&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luiz+Gustavo+Diniz;I'm+27+years+old;I+from+Brasil,+SP;I+study+web+and+mobile+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0362fc&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luiz+Gustavo+Diniz;I'm+27+years+old;I+from+Brasil,+SP;I+study+web+and+mobile+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuizGustavoDiniz&show_icons=true&count_private=true&hide_border=true&title_color=f71302&icon_color=f71302&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGustavoDiniz&layout=compact&hide_border=true&title_color=f71302&text_color=f71302&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuizGustavoDiniz&show_icons=true&count_private=true&hide_border=true&title_color=0362fc&icon_color=0362fc&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGustavoDiniz&layout=compact&hide_border=true&title_color=0362fc&text_color=0362fc&bg_color=0d1117" />
 </div>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=LuizGustavoDiniz&theme=gotham&hide_border=true&area=true)
@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">  
-<a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="[www.instagram.com](https://www.instagram.com/diniz.gust/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
 
 ### Main skills:
@@ -49,4 +49,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuizGustavoDiniz}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f71302&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0362fc&height=120&section=footer"/>
